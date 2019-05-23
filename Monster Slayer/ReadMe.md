@@ -1,4 +1,4 @@
-## Monster Slayer APP
+## Monster Slayer Application!
 
 This app is part of excercise for the Udemy course "Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)". 
 
